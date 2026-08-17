@@ -77,7 +77,7 @@ Real-time cryptocurrency trade analytics pipeline using streaming market data, S
 ## 📫 Connect With Me
 
 - **GitHub:** [@rabiyahawan789-droid](https://github.com/rabiyahawan789-droid)
-- **LinkedIn:** Add your LinkedIn profile here
+- **LinkedIn:** https://wwwlinkedin.com/in/rabiya-usman-081bb6263/
 
 ---
 
